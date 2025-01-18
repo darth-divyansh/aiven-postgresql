@@ -45,7 +45,6 @@ Aiven provides managed cloud database services that simplify database hosting an
    ```sql
       select version();
 
-     
 4. The output should look like this if the connection was successful:
    
 
