@@ -41,7 +41,9 @@ Aiven provides managed cloud database services that simplify database hosting an
 
      defaultdb=>
 3. To confirm the connection, check the PostgreSQL version:
-   - select version();
+   ```sql
+select version();
+
      
 4. The output should look like this if the connection was successful:
    
