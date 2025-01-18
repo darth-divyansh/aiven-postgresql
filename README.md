@@ -45,12 +45,15 @@ Aiven provides managed cloud database services that simplify database hosting an
      
 4. The output should look like this if the connection was successful:
    
-                                             version
+
+
+```plaintext
+                                           version
 --------------------------------------------------------------------------------------------
 PostgreSQL 16.6 on x86_64-pc-linux-gnu, compiled by gcc, [...]
-
 (1 row)
-
+--------------------------------------------------------------------------------------------
+```
 
 ---
 
