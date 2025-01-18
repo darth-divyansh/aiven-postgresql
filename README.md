@@ -33,19 +33,21 @@ Aiven provides managed cloud database services that simplify database hosting an
 
 ### **Step 3: Connect to PostgreSQL**
 1. On the overview of your hosted service use the "Quick Connect" button to select your way of connecting the online hosted service for your local backend app or run it in PostgreSQL, Nodejs Development or DBeaver.
+
 ![image](https://github.com/user-attachments/assets/4bf15b81-028a-4b31-959d-9d64af3d549e)
-2. If the connection is successful, you should see output similar to:
+
+3. If the connection is successful, you should see output similar to:
    - psql (13.2, server 13.3)
      SSL connection (protocol: TLSv1.3, cipher: TLS_AES_256_GCM_SHA384, bits: 256, compression: off)
      Type "help" for help.
 
      defaultdb=>
      
-3. To confirm the connection, check the PostgreSQL version:
+4. To confirm the connection, check the PostgreSQL version:
    ```sql
       select version();
 
-4. The output should look like this if the connection was successful:
+5. The output should look like this if the connection was successful:
    
 
 
