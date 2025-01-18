@@ -10,7 +10,7 @@ This project documents my experience of setting up and hosting an online Postgre
 - [Features Tested](#features-tested)
 - [Learnings](#learnings)
 - [Future Work](#future-work)
-- [Acknowledgements](#acknowledgements)
+
 
 ---
 
@@ -48,6 +48,7 @@ Aiven provides managed cloud database services that simplify database hosting an
                                              version
 --------------------------------------------------------------------------------------------
 PostgreSQL 16.6 on x86_64-pc-linux-gnu, compiled by gcc, [...]
+
 (1 row)
 
 
